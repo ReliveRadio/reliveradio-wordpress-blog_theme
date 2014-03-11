@@ -32,7 +32,7 @@ alt="Flattr This" title="Flattr This" style="max-width:100%;"> Michael McCouman 
 <br>
 <pre>
 /**
-*	@theme: 	Wordpress-Bootstraps
+*	@theme: 	Foundation Framework
 *	@design: 	Michael McCouman Jr.
 *	@cms:		Wordpress
 *	@version:	2.0.0
