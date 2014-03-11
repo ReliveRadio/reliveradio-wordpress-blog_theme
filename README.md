@@ -12,7 +12,7 @@ alt="Flattr This" title="Flattr This" style="max-width:100%;"> ReliveRadio</a>  
 alt="Flattr This" title="Flattr This" style="max-width:100%;"> Michael McCouman Jr.</a> 
 
 
-<img src="https://raw.github.com/McCouman/ReliveRadio-Blog-Design/master/Bildschirmfoto-19.44.16.png" /> <br />
+<img src="https://raw.github.com/ReliveRadio/reliveradio-wordpress-blog_theme/master/screenshot.png" /> <br />
 
 
 <h3>Installation:</h3>
@@ -24,7 +24,6 @@ alt="Flattr This" title="Flattr This" style="max-width:100%;"> Michael McCouman 
 
 <h3>Einrichten:</h3>
 <hr />
-<img src="https://raw.github.com/McCouman/ReliveRadio-Blog-Design/master/Bildschirmfoto.png" /> <br />
 <b>gehe unter: </b></br />
 <ul>
 <li>1.) Theme Options</li>
@@ -36,6 +35,6 @@ alt="Flattr This" title="Flattr This" style="max-width:100%;"> Michael McCouman 
 *	@theme: 	Wordpress-Bootstraps
 *	@design: 	Michael McCouman Jr.
 *	@cms:		Wordpress
-*	@version:	1.1.5
+*	@version:	2.0.0
 */
 </pre>
